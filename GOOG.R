@@ -5,7 +5,7 @@ data<-read.csv("https://raw.githubusercontent.com/gaoyifan99/COV-19-Project/mast
 
 
 #stock date
-stock_ymd<-read.csv("https://raw.githubusercontent.com/gaoyifan99/COV-19-Project/master/GOOG.csv",header=TRUE,sep=",",quote="")
+stock_ymd<-read.csv("https://github.com/gaoyifan99/COV-19-Project/blob/master/GOOG_stock.csv",header=TRUE,sep=",",quote="")
 
 
 
