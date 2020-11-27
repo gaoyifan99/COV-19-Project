@@ -1,5 +1,5 @@
 #COV-19 DATA
-library(lubridate)
+
 data<-read.csv("https://raw.githubusercontent.com/gaoyifan99/COV-19-Project/master/national-history.csv",header=TRUE,sep=",",quote="")
 
 
